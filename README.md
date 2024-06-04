@@ -11,7 +11,7 @@ This is a simple React-based note-taking application that allows users to add, e
 ## Installation
 To get started with this project, clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/MohdGhazanfar/Note-Taking-App
+git clone https://github.com/MohdGhazanfar/Note-Taking-App.git
 cd Note-Taking-App
 npm install
 ```
