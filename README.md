@@ -1,4 +1,4 @@
-# Note-Taking App
+# Note-Taking-App
 
 ## Overview
 This is a simple React-based note-taking application that allows users to add, edit, and delete notes efficiently. This project is ideal for those looking to understand the fundamentals of React including state management and component-based architecture.
@@ -11,8 +11,8 @@ This is a simple React-based note-taking application that allows users to add, e
 ## Installation
 To get started with this project, clone the repository and install the dependencies:
 ```bash
-git clone https://github.com/MohdGhazanfar/note-taking-app
-cd note-taking-app
+git clone https://github.com/MohdGhazanfar/Note-Taking-App
+cd Note-Taking-App
 npm install
 ```
 ## Running the App
